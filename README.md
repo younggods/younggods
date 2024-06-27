@@ -2,7 +2,7 @@
   <p align="center">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://files.catbox.moe/y4427n.png">
- <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/86px2d.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/vtbbfm.png">
  <img alt="me!" src="https://files.catbox.moe/y4427n.png">
 </picture>
  </p>
